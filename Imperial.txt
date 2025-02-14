@@ -1,0 +1,11 @@
+Hi Indah this is your very firt project using GIT and GitHUB wohoo congrats :) You did it. 
+Remember to use GIT locally using command promt and it's ZSH in Mac OS but in case you gonna use another OS you gotta learn new terminal.
+Here We could edit our file, You could create any file here like txt/ python or any others file. 
+You could push your file to GitHub from your local git and 
+You could pull your file from GitHub to the Local GIT.
+
+Here is to remember that you need to set up the SSH Key first in order to push your GIT Locally to GitHub...
+because GIT now is not supporting HTTPS anymore. haha
+Conrats again my love!
+Keep going there's still a lot of work to do! 
+Keep pushing. 
